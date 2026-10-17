@@ -10,8 +10,9 @@ Este repositório contém um sistema avançado de análise preditiva focado em *
 
 ## 📊 Cockpit de Retenção e Growth Analytics
 
-![Dashboard de Churn](dashboard_churn_ecommerce.html) 
-*(Adicione seu print aqui substituindo por este texto se desejar)*
+Observe abaixo o painel interativo de monitoramento integrado gerado pelo pipeline:
+
+<img src="e-commerce-customer-churn-growth-marketi....png" width="100%" alt="Dashboard de Churn e Funil de Vendas">
 
 ---
 
