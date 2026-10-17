@@ -12,7 +12,7 @@ Este repositório contém um sistema avançado de análise preditiva focado em *
 
 Observe abaixo o painel interativo de monitoramento integrado gerado pelo pipeline:
 
-<img src="dashboard-churn.png" width="100%" alt="Dashboard de Churn e Funil de Vendas">
+![Dashboard de Churn](dashboard-churn.png.png)
 
 ---
 
